@@ -1,9 +1,14 @@
 # Earth-Strike
 
-Purpose:
-Many of the issues raised within Earth-Strike have historically exist within either the discord servers, loomio or google documents where they quickly fall from public view and are forgotten. This negates both further discussion and realisation by other members which can result in the issue being raised multiple times to no end. By accumulating this information in one place, we can create a central archive as a resource that will benefit everyone.
+Inspiration:
+Many of the issues raised within Earth-Strike have historically exist within either the discord servers, loomio or google documents where they quickly fall from public view and are forgotten. This negates both further discussion and realisation by other members which can result in the issue being raised multiple times to no end. It was quickly apparent that other forms of electronic data also require storage as a resource and hence this repository has been created.
 
-This repository exists as both a platform and an archive for issues raised by members of earth-strike to be listed for discussion in an effort to provide horrizontal inclusion and as an information bank to negate the rehashing of issues which have already been dealt with in the past. 
+Purpose:
+By accumulating information in one place, we can create a central archive as a resource that will benefit everyone. However, it is not just the documentation relating to issues which we need to archive, any information created or obtained by Earth-Strike and its members has its place here.
+
+This repository exists as both a platform and an archive for issues raised by members of earth-strike and other electronic materials to be listed for discussion and reference in an effort to provide horrizontal inclusion, a resource for materials and as an information bank to negate the rehashing of issues which have already been dealt with in the past.
+
+Note: Any electronic versions of any materials either related to or unrelated to issues may be stored here.
 
 Deffinition:
   Issue- Anything requiring discussion relating to any topic directly associated to earth-strike.
