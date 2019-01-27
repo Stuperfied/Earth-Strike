@@ -20,3 +20,5 @@ Usage: Heirarchy of topics and documents filed under campaigns. Campaigns could 
 
 How to:
 There are many ways to use the system, the easiest way for those new to github to be involved is to create an issue which is easy and will in no way cause any problems. Don't be afraid as you can't break anything. You may also do what is called forking or cloning the repository which will create your own local copy which you can then edit directly in your own account. Any changes you make will not effect the master branch and after you have made your changes you can submit them for review and merger into the original repository by creating a pull request. For further information, there are extensive tutorials on google however others are encouraged to expand/edit this set of instructions.
+
+Tip: When creating or uploading, place slashes '/' in the name section to specify directories. 
